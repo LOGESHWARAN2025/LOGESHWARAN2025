@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Logeshwaran%20Rajkumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20DevOps%20%26%20Cloud%20Automation&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://github.com/LOGESHWARAN2025">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building%20scalable%20full-stack%20%2B%20SaaS%20platforms;Automating%20CI%2FCD%20pipelines%20with%20GitHub%20Actions;React%20%2B%20FastAPI%20%2B%20PostgreSQL%20%2B%20Docker%20%2B%20AWS;Final-year%20CSE%20undergrad%20%40%20KPR%20Institute" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building%20scalable%20full-stack%20%2B%20SaaS%20platforms;Automating%10CI%2FCD%10pipelines%20with%20GitHub%20Actions;React%20%2B%20FastAPI%20%2B%20PostgreSQL%20%2B%20Docker%20%2B%20AWS;Final-year%20CSE%20undergrad%20%40%20KPR%20Institute" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=LOGESHWARAN2025&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile views" />
